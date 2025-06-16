@@ -1,5 +1,4 @@
 ---
-
 <h1 align="center">Hi 👋, I'm Meharban Alam</h1>
 <h3 align="center">A passionate Android App Developer from India 🇮🇳</h3>
 
@@ -7,17 +6,25 @@
   <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/android-dev-banner.gif" alt="Android Developer Banner" width="100%" height="200"/>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0ED4F9&width=435&lines=Kotlin+%7C+Java+%7C+Firebase+%7C+Jetpack+Compose"/>
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3FDD8A&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+%7C+Java+%7C+Firebase;Jetpack+Compose+Lover;Always+learning+new+things"/>
+  <img src="https://github.com/Mehruuban/Mehruuban/assets/Mehruuban/88aabca8-6bb7-474c-a3a8-e17abd13e422" width="100%" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Android Development using Kotlin & Jetpack Compose**  
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Mehruuban?tab=repositories)
-- 📫 Reach me at: **devmehrbanalam@gmail.com**
+- 🔥 I am a passionate Android developer with experience in building modern, responsive, and scalable apps using **Kotlin**, **Java**, **Firebase**, and **Jetpack Compose**.
+- 🚀 I enjoy creating clean UI and enhancing user experience by applying the best design patterns and architecture like **MVVM**.
+- 📱 Currently working on exciting projects like **News App**, **Chat App**, and **Video Streaming App**.
+- 🧠 Always curious and learning new technologies, currently exploring **Jetpack Compose** and **AI integration in apps**.
+- 💬 Ask me anything about Android | Firebase | Kotlin | UI/UX
+- 📫 Reach me at: [devmehrbanalam@gmail.com](mailto:devmehrbanalam@gmail.com)
+- 🌟 Fun fact: I debug faster after chai ☕
 
 ---
 
@@ -33,7 +40,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
