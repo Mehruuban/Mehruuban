@@ -3,28 +3,26 @@
 <h3 align="center">A passionate Android App Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/android-dev-banner.gif" alt="Android Developer Banner" width="100%" height="200"/>
+  <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/android-dev-banner.gif" alt="Android Developer Banner" width="100%" height="250"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0ED4F9&width=435&lines=Kotlin+%7C+Java+%7C+Firebase+%7C+Jetpack+Compose"/>
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/profile-highlight.gif" alt="Profile Highlight" width="80%"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/Mehruuban/Mehruuban/assets/Mehruuban/88aabca8-6bb7-474c-a3a8-e17abd13e422" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1BE7FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=Android+Developer;Java+%7C+Kotlin+%7C+Firebase;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔥 I am a passionate Android developer with experience in building modern, responsive, and scalable apps using **Kotlin**, **Java**, **Firebase**, and **Jetpack Compose**.
-- 🚀 I enjoy creating clean UI and enhancing user experience by applying the best design patterns and architecture like **MVVM**.
-- 📱 Currently working on exciting projects like **News App**, **Chat App**, and **Video Streaming App**.
-- 🧠 Always curious and learning new technologies, currently exploring **Jetpack Compose** and **AI integration in apps**.
-- 💬 Ask me anything about Android | Firebase | Kotlin | UI/UX
-- 📫 Reach me at: [devmehrbanalam@gmail.com](mailto:devmehrbanalam@gmail.com)
-- 🌟 Fun fact: I debug faster after chai ☕
+- 📱 I’m currently working on **News App, Chat App, and Video Streaming App**
+- 🤝 I love building real-world Android apps that solve daily life problems
+- 💬 Ask me about: **Java, Kotlin, Firebase, Android Studio, UI Design**
+- 📧 Reach me at: **devmehrbanalam@gmail.com**
+- ☕ Fun Fact: I debug faster after chai 🍵
 
 ---
 
