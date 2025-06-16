@@ -1,63 +1,71 @@
-<h1 align="center">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="center">A passionate Android app developer from India</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?w=740" width="300" alt="Coding Image"/>
+  <img src="https://img.freepik.com/premium-vector/app-development-abstract-concept_107173-29046.jpg?w=826" alt="banner" width="100%"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Meharban Alam</h1>
+<h3 align="center">🚀 A passionate Android App Developer from India 🇮🇳</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Android Projects using Kotlin & Java**
-- 🌱 I’m learning **Firebase, Jetpack Compose & Room Database**
-- 💬 Ask me about `Android`, `Java`, `Kotlin`
-- 📫 How to reach me: [developermehru@gmail.com](mailto:developermehru@gmail.com)
-- ⚡ Fun fact: *I am funny !*
+- 🔭 Currently working on **News, Chat, Video Streaming Apps**
+- 🌱 Learning `Firebase`, `Room DB`, `Jetpack Compose`
+- 💬 Ask me about `Kotlin`, `Java`, `Android Development`
+- 📫 Reach me: [developermehru@gmail.com](mailto:developermehru@gmail.com)
+- 😄 Fun fact: *I code better with chai ☕!*
 
 ---
 
-### 🚀 Connect with Me
+### 🧰 Languages & Tools
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehruuban" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:developermehru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🔥 GitHub Stats
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehruuban&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehruuban&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Pinned Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehruuban&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehruuban&layout=compact&theme=radical" width="48%" />
+- 📰 [News App](#)
+- 💬 [Chat App](#)
+- 🎥 [Video Streaming App](#)
+
+> View all projects in pinned repositories.
+
+---
+
+### 🎯 Certifications
+
+- Java Programming – [Insert Platform Name]
+- Android Development – [Insert Platform Name]
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:developermehru@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mehruuban/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📜 Certifications
-
-- Google Android Developer Certificate *(in progress)*
-- Java Programming by XYZ Platform *(add yours here)*
-
----
-
-*Thanks for visiting! Let's build something amazing together 🚀*
-
+<p align="center">
+  💻 *“Code. Build. Break. Repeat.”* 💻  
+</p>
