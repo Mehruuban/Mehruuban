@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://i.ibb.co/GFbQxqf/android-banner-dev.jpg" alt="Android Developer Banner" />
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="center">A Passionate Android App Developer from India 🇮🇳</h3>
+<h1 align="left">Hi 👋, I'm Meharban Alam</h1>
+<h3 align="left">A Passionate Android App Developer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/Mehruuban">
@@ -15,11 +16,13 @@
 
 ### 🔥 About Me
 
-🎓 Final-year student & Android enthusiast  
-📱 Love building beautiful & functional Android apps  
-🚀 Currently improving skills in Kotlin, Firebase & Jetpack  
-💬 Ask me about Android, UI Design, Firebase, Java & Kotlin  
-📫 Email me at: [devmeharbanalam@gmail.com](mailto:devmeharbanalam@gmail.com)
+- 🌱 I’m currently learning **Android Development**
+
+- 💬 Ask me about **Android , Kotlin , java , ui ux**
+
+- 📫 How to reach me **developermehru@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 ---
 
