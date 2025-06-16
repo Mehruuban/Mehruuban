@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/banner.png" alt="Android Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="center">An enthusiastic Android Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Android Developer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/Mehruuban">
@@ -15,27 +15,15 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Passionate Android Developer who loves building real-world mobile apps  
-- 🔭 Currently working on:
-  - 📲 **News App** – Stay updated with trending news
-  - 💬 **Chat App** – Real-time messaging with Firebase
-  - 🎥 **Video Streaming App** – Play and stream videos with ease  
-- 🌱 Learning:
-  - ⚙️ Kotlin
-  - 🔥 Firebase
-  - 🧩 Jetpack Compose  
-- 💡 Tech Stack:
-  - Java | Kotlin | Firebase | Android Studio | XML UI Design  
-- 💬 Ask me about:
-  - Android App Development
-  - Firebase Integration
-  - Clean UI Design
-- 📫 Contact: [devmeharbanalam@gmail.com](mailto:devmeharbanalam@gmail.com)  
-- ☕ Fun Fact: *I debug better after a cup of chai!*
+- 🔭 Currently building **News App**, **Chat App**, and **Video Streaming App**  
+- 🌱 Learning **Kotlin**, **Firebase**, and diving into **Jetpack Compose**  
+- 💬 Feel free to ask me about **Java, Kotlin, Firebase, Android Studio, UI Design**  
+- 📫 Reach me at: [devmeharbanalam@gmail.com](mailto:devmeharbanalam@gmail.com)  
+- ☕ Fun fact: *I debug faster after a cup of chai!*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github,html,css,js,postman" />
@@ -43,11 +31,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=radical" alt="Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mehruuban&theme=react-dark" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -69,5 +65,5 @@
 ---
 
 <p align="center">
-  🚀 Let's build amazing Android apps together!
+  🔥 Let's build something amazing with Android!
 </p>
