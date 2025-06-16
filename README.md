@@ -1,26 +1,63 @@
 <h1 align="center">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="center">A passionate android app developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740")
+<h3 align="center">A passionate Android app developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehruuban&label=Profile%20views&color=0e75b6&style=flat" alt="mehruuban" /> </p>
-
-- 🌱 I’m currently learning **Android Development**
-
-- 💬 Ask me about **Android , Kotlin ,**
-
-- 📫 How to reach me **developermehru@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?w=740" width="300" alt="Coding Image"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehruuban&show_icons=true&locale=en&layout=compact" alt="mehruuban" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehruuban&show_icons=true&locale=en" alt="mehruuban" /></p>
+- 🔭 I’m currently working on **Android Projects using Kotlin & Java**
+- 🌱 I’m learning **Firebase, Jetpack Compose & Room Database**
+- 💬 Ask me about `Android`, `Java`, `Kotlin`
+- 📫 How to reach me: [developermehru@gmail.com](mailto:developermehru@gmail.com)
+- ⚡ Fun fact: *I am funny !*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehruuban&" alt="mehruuban" /></p>
+---
+
+### 🚀 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehruuban" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:developermehru@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehruuban&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehruuban&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📜 Certifications
+
+- Google Android Developer Certificate *(in progress)*
+- Java Programming by XYZ Platform *(add yours here)*
+
+---
+
+*Thanks for visiting! Let's build something amazing together 🚀*
+
