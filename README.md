@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="left">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="left">A Passionate Android App Developer from India 🇮🇳</h3>
+<h3 align="left">A Passionate Android App Developer </h3>
 
 <p align="center">
   <a href="https://github.com/Mehruuban">
@@ -46,6 +46,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=radical" height="170"/>
+  </p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=radical" height="170"/>
 </p>
 
