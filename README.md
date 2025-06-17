@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRuZHhmaWFqZ2JuajhudXJnNXQ3NnpvNnN1cnF3b3hnaWZlcHdmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp" alt="Android Developer Banner" />
+  <img 
 
 </p>
 
@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=radical" height="170"/>
 </p>
