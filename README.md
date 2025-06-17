@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/GFbQxqf/android-banner-dev.jpg" alt="Android Developer Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRuZHhmaWFqZ2JuajhudXJnNXQ3NnpvNnN1cnF3b3hnaWZlcHdmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp" alt="Android Developer Banner" />
 
 </p>
 
