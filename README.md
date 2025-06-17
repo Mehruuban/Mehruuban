@@ -49,7 +49,7 @@
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=radical" height="125"/>
 
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=radical" height="125" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=radical"/>
   
   </p>
 
