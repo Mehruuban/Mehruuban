@@ -1,10 +1,9 @@
 <p align="center">
-  <img 
-
+  <img src="https://raw.githubusercontent.com/Mehruuban/Mehruuban/main/assets/banner.png" alt="Banner" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="left">A Passionate Android App Developer </h3>
+<h1 align="center">Hi 👋, I'm Meharban Alam</h1>
+<h3 align="center">A Passionate Android App Developer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/Mehruuban">
@@ -17,12 +16,9 @@
 ### 🔥 About Me
 
 - 🌱 I’m currently learning **Android Development**
-
-- 💬 Ask me about **Android , Kotlin , java , ui ux**
-
-- 📫 How to reach me **developermehru@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 💬 Ask me about **Android, Kotlin, Java, UI/UX**
+- 📫 How to reach me: **developermehru@gmail.com**
+- ⚡ Fun fact: *I debug faster after chai ☕*
 
 ---
 
@@ -44,17 +40,11 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=radical" height="125"/>
-
-  </p>
-
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=radical" height="125"/>
-
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=radical"/>
-  
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
@@ -69,5 +59,5 @@
 ---
 
 <p align="center">
-  ⚡ *Let’s build innovative Android experiences together!*
+  ⚡ <i>Let’s build innovative Android experiences together!</i>
 </p>
