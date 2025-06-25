@@ -24,11 +24,12 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 ---
 
