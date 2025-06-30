@@ -5,8 +5,6 @@
 Let’s build and debug the future of mobile apps together! 
 </p>
 
----
-
 ### 🔗 Connect with me:
 
 <p align="left">
@@ -17,8 +15,6 @@ Let’s build and debug the future of mobile apps together!
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="30" />
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools:
 
@@ -33,8 +29,6 @@ Let’s build and debug the future of mobile apps together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p>
@@ -42,14 +36,8 @@ Let’s build and debug the future of mobile apps together!
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mehruuban&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
-
 ### 📬 Contact
 
 📍 Location: Delhi, India  
 📧 Email: developermehru@gmail.com  
 👨‍💻 LinkedIn: [linkedin.com/in/meharban-alam](https://www.linkedin.com/in/meharban-alam-9bbb7a327)
-
----
-
-<!-- ✅ Default GitHub contribution graph will appear automatically below this README in your profile view -->
