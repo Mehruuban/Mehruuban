@@ -1,47 +1,55 @@
-<h1 align="center">Hi 👋, I'm Meharban Alam</h1>
-<h3 align="center">🚀 A Passionate Android App Developer from India 🇮🇳</h3>
+<h1 align="left">Hi 👋, I'm Meharban Alam</h1>
+<h3 align="left">💻 Passionate Android App Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/Mehruuban">
-    <img src="https://komarev.com/ghpvc/?username=Mehruuban&label=Profile%20views&color=0e75b6&style=flat" alt="Mehruuban" />
+<p align="left">
+Let’s build and debug the future of mobile apps together! 
+</p>
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/meharban-alam-9bbb7a327" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:developermehru@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="30" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final-year student and self-taught Android developer  
-- 💻 I build native Android apps using **Java**  
-- 📱 Currently working on personal and open-source Android projects  
-- 📬 Reach me: [developermehru@gmail.com](mailto:developermehru@gmail.com)  
+### 🛠️ Languages and Tools:
 
----
-
-### 🔧 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github,html,css,js" />
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehruuban&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehruuban&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehruuban&layout=compact&theme=tokyonight" height="150"/>
-</p>
+### 📊 GitHub Stats
 
-
----
-
-### 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/meharban-alam-9bbb7a327"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:developermehru@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Mehruuban"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehruuban&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mehruuban&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">
-  💡 *Let’s build something amazing with code!*
-</p>
+### 📬 Contact
+
+📍 Location: Delhi, India  
+📧 Email: developermehru@gmail.com  
+👨‍💻 LinkedIn: [linkedin.com/in/meharban-alam](https://www.linkedin.com/in/meharban-alam-9bbb7a327)
+
+---
+
+<!-- ✅ Default GitHub contribution graph will appear automatically below this README in your profile view -->
