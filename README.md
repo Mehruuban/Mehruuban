@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehruuban&layout=compact&langs_count=6&theme=default" alt="Most Used Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehruuban&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehruuban&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehruuban&layout=compact&langs_count=6&theme=default" alt="Most Used Languages" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehruuban&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" height="210"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehruuban&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="210"/>
 </p>
